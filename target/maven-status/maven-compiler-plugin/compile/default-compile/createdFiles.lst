@@ -1,0 +1,14 @@
+com/calc/lar/DataClasses/Model.class
+com/calc/lar/Classes/StatusObject.class
+com/calc/lar/Repo/BrandRepo.class
+com/calc/lar/Classes/DVS.class
+com/calc/lar/Classes/Freeze.class
+com/calc/lar/Controllers/MainController.class
+com/calc/lar/Classes/KPP.class
+com/calc/lar/Repo/ModelRepo.class
+com/calc/lar/CalcApplication.class
+com/calc/lar/Repo/CarRepo.class
+com/calc/lar/DataClasses/Brand.class
+com/calc/lar/Classes/Reductor.class
+com/calc/lar/Classes/Filters.class
+com/calc/lar/DataClasses/Car.class
